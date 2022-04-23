@@ -43,6 +43,7 @@ npm start ==> running project
 
 npm  run server ==> running with nodemon package
 
+npm  run both ==> to run frontend and backend 
 
 -------------------------------------
 IMPORTENT POINTS
