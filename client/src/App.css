@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#text-left {
+  text-align: left;
+  font-size: 14px;
+  color: rgb(174, 178, 182);
+}
